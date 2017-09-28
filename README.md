@@ -1,6 +1,6 @@
 # MXnet-ssd webcam
 
-All codes came from https://github.com/zhreshold/mxnet-ssd.  
+All codes came from https://github.com/zhreshold/mxnet-ssd-video.  
 I just added a progarm to make the detection of vedio.  
 
 ## Usage
